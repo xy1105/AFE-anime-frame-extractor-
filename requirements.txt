@@ -1,0 +1,7 @@
+PyQt5>=5.15
+opencv-python
+numpy
+cryptography
+appdirs
+scikit-image
+python-vlc # <--- 新增
