@@ -2,7 +2,7 @@
 
 # --- App Info ---
 APP_NAME = "动漫抽帧 V2.1" # 版本号更新
-APP_AUTHOR = "YourCompanyName" # Or keep "笑颜" if preferred
+APP_AUTHOR = "Enjoy" # Or keep "笑颜" if preferred
 
 # --- Processing Defaults ---
 DEFAULT_FRAME_FOR_PREVIEW = 100
